@@ -1,7 +1,7 @@
 {
   "swagger" : "2.0",
   "info": {
-    "description": "API Definition of Hello Test 1",
+    "description": "API Definition of Hello Test 2",
     "title": "Hello",
     "version": "1.0.0"
   },
